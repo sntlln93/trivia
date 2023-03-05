@@ -1,0 +1,19 @@
+{
+  "name": "trivia",
+  "version": "1.0.0",
+  "description": "Trivia Game with predefined questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sntlln93/trivia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sntlln93/trivia/issues"
+  },
+  "homepage": "https://github.com/sntlln93/trivia#readme"
+}
